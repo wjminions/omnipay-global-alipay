@@ -1,0 +1,36 @@
+{
+  "name": "wjminions/omnipay-global-alipay",
+  "type": "library",
+  "description": "Alipay global gateway for Omnipay payment processing library",
+  "keywords": [
+    "alipay",
+    "gateway",
+    "global",
+    "cross-border",
+    "international",
+    "merchant",
+    "omnipay",
+    "pay",
+    "payment",
+    "purchase"
+  ],
+  "homepage": "https://github.com/lokielse/omnipay-global-alipay",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "wjminions",
+        "homepage": "https://github.com/wjminions/omnipay-paydollar"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Omnipay\\GlobalAlipay\\": "src/"
+    }
+  },
+  "require": {
+    "omnipay/common": "~2.5.1"
+  },
+  "require-dev": {
+    "omnipay/tests": "~2.0"
+  }
+}
