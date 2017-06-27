@@ -14,12 +14,12 @@
     "payment",
     "purchase"
   ],
-  "homepage": "https://github.com/lokielse/omnipay-global-alipay",
+  "homepage": "https://github.com/wjminions/omnipay-global-alipay",
   "license": "MIT",
   "authors": [
     {
       "name": "wjminions",
-        "homepage": "https://github.com/wjminions/omnipay-paydollar"
+        "homepage": "https://github.com/wjminions/omnipay-global-alipay"
     }
   ],
   "autoload": {
